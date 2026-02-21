@@ -1,0 +1,3 @@
+venv/
+__psycache__/
+.DS_Store
